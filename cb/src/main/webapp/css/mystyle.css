@@ -1,0 +1,23 @@
+html, body {
+	width: 99%;
+	height: 95%;
+	background: #00ff80;
+}
+
+.headerblock {
+	height: 10%;
+	width: 100%;
+	background: #00ff80;
+}
+
+.bodyblock {
+	height: 85%;
+	width: 100%;
+	background: #00ff80;
+}
+
+.footerblock {
+	height: 5%;
+	width: 100%;
+	background: #00ff80;
+}

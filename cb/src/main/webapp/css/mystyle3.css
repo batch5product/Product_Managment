@@ -1,0 +1,23 @@
+body {
+background-image:url("/css/well.png");
+ background-color: #ffffff;
+}
+
+a:hover {
+	color:red;
+  background-color: orange;
+  text-decoration:underline;
+}
+h1{
+	text-align:center;
+	color:#ff0000;
+}
+.j
+{
+	text-align:center;
+
+}
+a
+{
+color:#400080;	
+}

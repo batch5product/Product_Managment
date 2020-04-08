@@ -1,0 +1,64 @@
+body {
+background-image:url("/css/well.png");
+ background-color: #ffffff;
+}
+
+a{
+
+	
+  text-decoration:none;
+}
+a:hover {
+	color:black;
+  background-color: red;
+  text-decoration:underline;
+}
+div.form
+{
+    display: block;
+    text-align: center;
+}
+form
+{
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: left;
+}
+
+
+#tab {
+  font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+  border-collapse: not-collapse;
+  width: 100%;
+}
+
+#tab td, #tab th {
+  border: 0px solid #ddd;
+  padding: 8px;
+}
+
+
+
+#tab tr:hover {background-color: #ddd;}
+
+#tab th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color: #4CAF50;
+  color: white;
+}
+
+.button {
+  background-color: #c0c0c0;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 14px;
+  margin: 4px 70px;
+  cursor: pointer;
+}

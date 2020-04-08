@@ -1,0 +1,49 @@
+ body {
+background-image:url("/css/well.png");
+ background-color: #ffffff;
+}
+
+
+a{
+
+	
+  text-decoration:none;
+}
+
+
+#products td, #products th {
+  border: 2px solid #ddd;
+  padding: 8px;
+  height:25px;
+}
+
+#products tr:nth-child(even){background-color: #f2f2f2;}
+
+#products tr:hover {background-color: #ddd;}
+
+#products th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color: #4CAF50;
+  color: white;
+}
+#products {
+  font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+  border-collapse: collapse;
+  width: 50%;
+}
+
+.button {
+  background-color: #c0c0c0;
+  border: none;
+  color: white;
+  padding: 12px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 14px;
+  margin: 4px 690px;
+  cursor: pointer;
+}
+
